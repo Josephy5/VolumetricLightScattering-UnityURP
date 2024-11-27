@@ -10,9 +10,11 @@ A Volumetric light scattering effect that is used to replicate the visuals of go
 It could theoretically run on Unity 2022 since its using the same code I used for the effects's render feature and pass within Unity 2022, but it is untested.
 
 This effect only works on one directional light, and does not support point, spot, or multiple directional lights.
-
-Note: I have previously created a separate volumetric light scattering effect in Unity 2022 for my own personal use. The code and effect in this repository was created for Serious Point Games. 
+<br>
+***
+**Note:** I have previously created a separate volumetric light scattering effect in Unity 2022 for my own personal use. The code and effect in this repository was created for Serious Point Games. 
 However, I might reuse some of the code from this repository to my personal, as some of its ray marching and other light scattering related code is better than what I developed earlier.
+___
 
 ## Features
 - Fully adjustable screen-based ray marched godrays
