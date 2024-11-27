@@ -9,10 +9,10 @@
 A Volumetric light scattering effect that is used to replicate the visuals of god rays in Unity. It was created for Unity URP (6000.0.27f1) and for Serious Point Games as part of my studies in shader development.
 It could theoretically run on Unity 2022 since its using the same code I used for the effects's render feature and pass within Unity 2022, but it is untested.
 
-I have created a seperate volumetric light scattering effect before within Unity 2022, but is created for my own private personal use. I might reuse some of the code in this repo to my private one as 
-some of its raymarching code is better than the one I created back then. The one in this repo was just created for Serious Point Games.
-
 This effect only works on one directional light, and does not support point, spot, or multiple directional lights.
+
+Note: I have previously created a separate volumetric light scattering effect in Unity 2022 for my own personal use. The code and effect in this repository was created for Serious Point Games. 
+However, I might reuse some of the code from this repository to my personal, as some of its ray marching and other light scattering related code is better than what I developed earlier.
 
 ## Features
 - Fully adjustable screen-based ray marched godrays
