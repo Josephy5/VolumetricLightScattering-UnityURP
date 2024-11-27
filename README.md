@@ -12,9 +12,8 @@ It could theoretically run on Unity 2022 since its using the same code I used fo
 This effect only works on one directional light, and does not support point, spot, or multiple directional lights.
 <br>
 ***
-**Note:** I have previously created a separate volumetric light scattering effect in Unity 2022 for my own personal use. The code I used for that effect is entirely different from the code in this repository, 
-and I did not transfer it over to this repository for further development. However, I may reuse some code from this repository in my personal project, as some of its ray marching and light scattering-related 
-code is better than what I developed earlier.
+**Note:** I have previously created a separate volumetric light scattering effect in Unity 2022 for my own personal use. The code I used for that effect is entirely different from the code in this repository. 
+However, I may reuse some code from this repository in my personal project, as some of its ray marching and light scattering-related code is better than what I developed earlier.
 ___
 
 ## Features
