@@ -23,6 +23,7 @@ However, I might reuse some of the code from this repository to my personal, as 
 ## Example[s]
 ![Godrays](https://github.com/user-attachments/assets/c283213e-a2e1-4544-a230-91b8c30db6be)
 <br>
+<br>
 What it looks with the effect on
 ![GodraysWithout](https://github.com/user-attachments/assets/570083a0-e176-4996-a722-15b5b3464284)
 <br>
