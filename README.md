@@ -1,12 +1,12 @@
 ![Godrays](https://github.com/user-attachments/assets/c283213e-a2e1-4544-a230-91b8c30db6be)
 
 # Volumetric Light Scattering / God rays
-![Unity Version](https://img.shields.io/badge/Unity-6000.0.27%27LTS%2B-blueviolet?logo=unity)
+![Unity Version](https://img.shields.io/badge/Unity-6000.0.58%27LTS%2B-blueviolet?logo=unity)
 ![Unity Pipeline Support (Built-In)](https://img.shields.io/badge/BiRP_❌-darkgreen?logo=unity)
 ![Unity Pipeline Support (URP)](https://img.shields.io/badge/URP_✔️-blue?logo=unity)
 ![Unity Pipeline Support (HDRP)](https://img.shields.io/badge/HDRP_❌-darkred?logo=unity)
  
-A Volumetric light scattering effect that is used to replicate the visuals of god rays in Unity. It was created for Unity URP (6000.0.27f1) and for Serious Point Games as part of my studies in shader development.
+A Volumetric light scattering effect that is used to replicate the visuals of god rays in Unity. It was created for Unity URP (6000.0.58f1) and for Serious Point Games as part of my studies in shader development.
 It could theoretically run on Unity 2022 since its using the same code I used for the effects's render feature and pass within Unity 2022, but it is untested.
 
 This effect only works on one directional light, and does not support point, spot, or multiple directional lights.
@@ -39,8 +39,8 @@ What it looks without the effect
 5. If needed, you can change the effect's render pass event in its render feature under settings.
 
 ## Credits/Assets used
-Some of the shader code is based on Mr-222’s Unity Volumetric Rendering Repo’s
-Volumetric Lighting code. [GitHub Repo Link](https://github.com/Mr-222/Unity_Volumetric_Rendering/tree/main)
+Unity_Volumetric_Rendering by Mr-222 ([GitHub Repo Link](https://github.com/Mr-222/Unity_Volumetric_Rendering/tree/main)). Used for some of the Volumetric Lighting code. 
+Licensed under Unlicense license - See [THIRD PARTY LICENSES](THIRD_PARTY_LICENSES) for details.
 <br>
 <br>
 "Mossy/Grassy Landscape" (https://skfb.ly/6RYvL) by Šimon Ustal is licensed under Creative
