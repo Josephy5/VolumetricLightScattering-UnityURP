@@ -39,8 +39,7 @@ What it looks without the effect
 5. If needed, you can change the effect's render pass event in its render feature under settings.
 
 ## Credits/Assets used
-Unity_Volumetric_Rendering by Mr-222 ([GitHub Repo Link](https://github.com/Mr-222/Unity_Volumetric_Rendering/tree/main)). Used for some of the Volumetric Lighting code. 
-Licensed under Unlicense license - See [THIRD PARTY LICENSES](THIRD_PARTY_LICENSES) for details.
+Unity_Volumetric_Rendering by Mr-222 ([GitHub Repo Link](https://github.com/Mr-222/Unity_Volumetric_Rendering/tree/main)). Licensed under Unlicense license - See [THIRD PARTY LICENSES](THIRD_PARTY_LICENSES) for details.
 <br>
 <br>
 "Mossy/Grassy Landscape" (https://skfb.ly/6RYvL) by Šimon Ustal is licensed under Creative
